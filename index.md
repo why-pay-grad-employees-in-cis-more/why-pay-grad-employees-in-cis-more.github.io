@@ -42,6 +42,10 @@ Salary is low compared to peer institutions.
 
 *(TODO: Chris is providing visualizations here)*
 
+We also gathered data from specific peer institutions
+
+*(TODO: Abhishek is providing data here)*
+
 The claim of low pay compared to peers holds true even when considering the cost of health insurance provided by the GTFF.
 
 - Health insurance paid by the university for the most typical graduate employee (i.e., single individual in their late 20s/early 30s) is comparable with plans offered on the open market (we found that a comparable zero-deductible plan for a single individual in their late 20s/early 30s living in Eugene offered through Kaiser Permanente + Healthcare.gov was $418/month, but the plan does not offer vision nor dental benefits, which would likely bump up premiums by another $80 or so, and would then match the GTFF healthcare plan price);
