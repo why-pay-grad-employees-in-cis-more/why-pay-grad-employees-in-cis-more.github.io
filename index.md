@@ -9,7 +9,7 @@ We've gathered data to support a number of arguments. In the end, they all point
 
 Our arguments are these. If even one is persuasive, it stands to reason that pay should be increased.
 
-1. Existing compensation isn't competitive when measured against peer institutions. Our department is in the bottom ~10%-25% of all computing departments nationwide in terms of pay offered.
+1.Existing compensation isn't competitive when measured against peer institutions. Our department is in the bottom ~10%-25% of all computing departments nationwide in terms of pay offered.
 2. We have seen pay cuts in the last two years, in real terms, and we want our salaries back.
 3. Rental costs, in particular, have become so high relative to pay that we can't afford housing anymore.
 4. Pay is so low that, even going by the University of Oregon's own official cost-of-living estimates, we can't afford rent and groceries.
