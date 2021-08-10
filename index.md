@@ -1,11 +1,13 @@
-# There are lots of reasons to pay us more!
-
-
 *(This page is in draft mode. We are working to solidify the best possible language/framing, format it nicely, include meaningful graphics, provide links to sources, etc. However, even in this unfinished state, it gives you the gist of where our heads are.)*
+
+
+# There are lots of reasons to pay us more!
 
 We've gathered data to support a number of arguments. In the end, they all point to one thing: salaries need to be raised.
 
-Our arguments are these. If even one is persuasive, it stands to reason that pay should be increased.
+Our arguments are below. If even one of these reasons is persuasive to you, it stands to reason that pay should be increased.
+
+## Reasons:
 
 1. Existing compensation isn't competitive when measured against peer institutions. Our department is in the bottom ~10%-25% of all computing departments nationwide in terms of pay offered.
 2. We have seen pay cuts in the last two years, in real terms, and we want our salaries back.
@@ -17,6 +19,8 @@ Our arguments are these. If even one is persuasive, it stands to reason that pay
 8. Raising our pay is bennificial for the State of Oregon as a whole.
 
 As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17,001/academic year) for entry level employees and overall gross median monthly pay was ~$1,967/month ($17,703/academic year) in 2020-2021.
+
+### Reason 1
 
 *(TODO: Refactor below WHEREASes into section-based supporting arguments for the points listed above.)*
 
