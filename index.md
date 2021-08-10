@@ -144,7 +144,21 @@ We are proud of our university, our department, our earned degrees, our students
 
 The average starting pay for graduate employees in other departments is hundreds of dollars more a month, including in the departments of Art History, Biology, Chemistry, Creative Writing, Earth Science, Economics, Mathematics, Physics, and Psychology, and, further, the Department of Computer and Information Science’s graduate employees have lower average overall pay than graduate employees in an additional 18 hiring departments.
 
-*(Insert table with starting pay rates of other departments here)*
+In the College of Arts and Sciences alone, we note the following departments have higher median starting salaries than in CIS as of May 2021. The dollar figures are median gross salaries paid per month by hiring department in the academic year for GEs on teaching funding.
+
+
+| Grade           |  Hiring Department                  |  Median FTE |  2019-2020   (Official) |  2020-2021   (Estimated YTD) |  2021-2022   (Projected) |
+|-----------------|-------------------------------------|-------------|-------------------------|------------------------------|--------------------------|
+|  GE1 - Teaching |  CAS Chemistry                      |        0.46 |                  $2,239 |                       $2,271 |                   $2,302 |
+|  GE1 - Teaching |  CAS Biology                        |        0.45 |                  $2,239 |                       $2,271 |                   $2,302 |
+|  GE1 - Teaching |  CAS Earth Sciences                 |        0.49 |                  $2,158 |                       $2,188 |                   $2,219 |
+|  GE1 - Teaching |  CAS Psychology                     |        0.49 |                  $2,149 |                       $2,179 |                   $2,210 |
+|  GE1 - Teaching |  CAS Creative Writing               |        0.49 |                  $2,069 |                       $2,098 |                   $2,127 |
+|  GE1 - Teaching |  CAS Physics                        |        0.40 |                  $2,051 |                       $2,080 |                   $2,109 |
+|  GE1 - Teaching |  CAS Mathematics                    |        0.49 |                  $2,013 |                       $2,042 |                   $2,070 |
+|  GE1 - Teaching |  CAS Economics                      |        0.49 |                  $2,011 |                       $2,039 |                   $2,068 |
+|  GE1 - Teaching |  CAS Computer & Information Science |        0.45 |                  $1,863 |                       $1,889 |                   $1,916 |
+
 
 ## Reason 8 <a name="reason8" />
 **Realigning GE pay in CIS is beneficial for the State of Oregon as a whole. Not doing it will invite scrutiny from outside UO.**
