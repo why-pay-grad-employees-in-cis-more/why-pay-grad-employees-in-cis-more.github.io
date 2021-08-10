@@ -4,7 +4,7 @@ Welcome! If you're out of the loop about the current state of graduate employee 
 
 # There are lots of reasons to pay us more!
 
-We've gathered data to support a number of arguments. In the end, they all point to one thing: salaries need to be raised.
+We've gathered data to support a number of arguments. Click on the *read more* next to each rationale for greater explanation, supporting facts, figures, and sources. In the end, all the data point to one thing: salaries need to be raised before fall term begins.
 
 Our arguments are below. If even one of these reasons is persuasive to you, it stands to reason that pay should be increased.
 
