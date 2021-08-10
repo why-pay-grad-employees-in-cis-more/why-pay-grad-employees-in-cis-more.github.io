@@ -37,36 +37,14 @@ Our fix has four parts: change our salaries to the below rates, keep the number 
 
 ### Part A
 
-We request the following salary rates take hold **before** the 2021-2022 academic school year starts (that is, be effective on September 16, 2021 when the contract begins):
+We request the following gross salary rates during the academic year take hold **before** the 2021-2022 academic school year starts (that is, be effective on September 16, 2021 when the contract begins):
 
-|       |                                                                     | Gross Salary During The Academic Year |
-| ----- | ------------------------------------------------------------------- | ------------------------------------- |
-| Level | Description                                                         | @0.5 FTE (Base rate)                  | @0.49 FTE 
 
-(Maximum amount of time graduate employees can work) | @0.45 FTE 
-
-(18hrs/week; the norm for the typical graduate employee in CIS) |
-| GE1   | Entry level; has bachelor's degree in computer science              | $2,600/month
-
-($23,400/year)          | $2,548/month
-
-$22,932/year | $2,340/month
-
-$21,060/year |
-| GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month
-
-($27,000/year)          | $2,940/month
-
-$26,460/year | $2,700/month
-
-$24,300/year |
-| GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month
-
-($31,050/year)          | $3,381/month
-
-30,429/year | $3,105/month
-
-$27,945/year |
+| Level | Description                                                         | @0.5 FTE (Base rate)                  | @0.49 FTE (Maximum amount of time graduate employees can work) | @0.45 FTE (18hrs/week; the norm for the typical graduate employee in CIS) |
+| ----- | ------------------------------------------------------------------- | ------------------------------------- |  ------------------------------------------------------------ |  ------------------------------------------------------------------------ |
+| GE1   | Entry level; has bachelor's degree in computer science              | $2,600/month ($23,400/year)          | $2,548/month ($22,932/year) | $2,340/month ($21,060/year) |
+| GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month ($27,000/year)          | $2,940/month ($26,460/year) | $2,700/month ($24,300/year) |
+| GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month ($31,050/year)          | $3,381/month (30,429/year) | $3,105/month ($27,945/year) |
 
 ### Part B
 The total number of graduate employee teaching lines for the department must remain commensurate with the student-to-graduate-employee ratio of the 2020-2021 school year. (I.e., 75 GE lines distributed over three terms, for an average of 25 graduate employees per term on teaching funding.) Current faculty searches should also continue.
