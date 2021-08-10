@@ -17,7 +17,7 @@ Our arguments are below. If even one of these reasons is persuasive to you, it s
 5. There is real human suffering in our department because of the lack of living wages -- not just gripes about lower than desired salary. It's to the point that many of us can no longer ethically recommend graduate study in our department to potential new graduate students (esp. PhD students who are here for multiple years).  [Read More](#reason5)
 6. We are not asking for a lot of money. And there is plenty of money in the budget to pay us a bit more. To not pay us more is a policy decision, not a budget constraint.  [Read More](#reason6)
 7. There is a lot of precedent at the University of Oregon for our request. Graduate employees in many other departments make hundreds of dollars a month more than we do.  [Read More](#reason7)
-8. Raising our pay is bennificial for the State of Oregon as a whole.  [Read More](#reason8)
+8. Realigning GE pay in CIS is bennificial for the State of Oregon as a whole. Not doing it will invite scrutany from outside UO.  [Read More](#reason8)
 
 As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17,001/academic year) for entry level employees and overall gross median monthly pay was ~$1,967/month ($17,703/academic year) in 2020-2021.
 
@@ -34,10 +34,13 @@ As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17
 ## Proposed Fix <a name="fix" />
 
 ## Reason 1 <a name="reason1" />
+**Existing compensation isn't competitive.**
 
 Salary is low compared to peer institutions.
 
-- The Taulbee survey, the gold standard for enrollment and salary statistics for academic computing departments, reported the following for academic year 2020-2021:
+- The Taulbee survey, the gold standard for enrollment and salary statistics for academic computing departments, reported the following for academic year 2020-2021 ([source; page 43](https://cra.org/crn/2021/05/2020-taulbee-survey/)):
+
+*(TODO: Chris is providing visualizations here)*
 
 The claim of low pay compared to peers holds true even when considering the cost of health insurance provided by the GTFF.
 
@@ -51,20 +54,25 @@ And, of course, we pay embarassingly low salaries compared to industry.
 - The vast majority of graduate employees in the Department of Computer and Information Science at the University of Oregon have forgone years of lucrative salaries elsewhere to commit themselves to teaching, research, and general scholarship -- surely we can pay them at least a living wage.
 
 ## Reason 2 <a name="reason2" />
+**We have seen pay cuts in the last two years, in real terms.**
 
-10. WHEREAS less than $500 a month ($16.70/day) of discretionary after-rent income is not enough to buy food and basic essentials in Eugene for one person, let alone a family;
+Net pay for a GE in the department is around ~$1,500/month ([read more](#background)). The median monthly rent for a 1-bedroom apartment in the Eugene-Springfield metro area now exceeds $1,000 ([read more](#reason3)).
 
-12. WHEREAS nationwide inflation at 5.4% in June, its highest point since the 2008 financial crisis, is confounding the financial difficulty;
-13. WHEREAS the paltry 1.4% cost of living adjustments negotiated by the university-wide graduate employee labor union two years ago no longer make sense in today’s context;
-14. WHEREAS the new Letters of Appointment (contracts) for graduate employees in the Department of Computer and Information Science sent out by the university for the 2021-2022 academic school year reflecting this meager 1.4% pay adjustment, and not a penny more, is intolerably low;
+Less than $500 a month ($16.70/day) of discretionary after-rent income is not enough to buy food and basic essentials in Eugene for one person, let alone a family;
+
+Nationwide inflation at 5.4% in June, its highest point since the 2008 financial crisis, is confounding the financial difficulty. The paltry 1.4% cost of living adjustments negotiated by the university-wide graduate employee labor union two years ago no longer make sense in today’s context. Unfortunately, the new Letters of Appointment (contracts) for graduate employees in the Department of Computer and Information Science sent out by the university for the 2021-2022 academic school year reflecting this meager 1.4% pay adjustment, and not a penny more, is intolerably low.
 
 ## Reason 3 <a name="reason3" />
+**Rental costs have become so high relative to pay that we can't afford housing anymore.**
 
-7. WHEREAS the price of housing in Eugene has skyrocketed in the last year, such that landlords are raising rents at or near the amount permitted by Oregon’s statewide rent control law (over 9%);
-8. WHEREAS the University of Oregon does not have the will nor the capacity to house all graduate students at a subsidy in university owned housing, and has itself both raised rent multiple times and infamously moved to evict some of its graduate student tenants in good standing in the last few months, including tenants working for the Department of Computer and Information Science;
-9. WHEREAS the median monthly rent for a 1-bedroom apartment in the Eugene-Springfield metro area now exceeds $1,000;
+The median monthly rent for a 1-bedroom apartment in the Eugene-Springfield metro area now exceeds $1,000.
+
+Moreover, the price of housing in Eugene has skyrocketed in the last year, such that landlords are raising rents at or near the amount permitted by Oregon’s statewide rent control law (over 9%). The University of Oregon does not have the will nor the capacity to house all graduate students at a subsidy in university owned housing, and has itself both raised rent multiple times and infamously moved to evict some of its graduate student tenants in good standing in the last few months ([source](https://www.opb.org/article/2021/05/25/university-of-oregon-graduate-programs-students-housing-covid-19-quarantine/)), including tenants working for the Department of Computer and Information Science
+
+*(TODO: Matt is providing more sources here.)*
 
 ## Reason 4 <a name="reason4" />
+**Pay is so low that, even going by the University of Oregon's own official cost-of-living estimates, we can't afford rent and groceries.**
 
 The University of Oregon itself makes estimates of graduate student expenses, reported on its page https://financialaid.uoregon.edu/cost_of_attendance_graduate
 
@@ -76,22 +84,19 @@ These expenses are tabluated as:
  * Personal Expenses: $2,196
  * Transportation: $1,308
 
-Which, when added together, correspond to average expenses of $1,929/month, nearly exceeding the gross pay offered by the department, and certainly more than the ~$1,500 net pay hitting our wallets;
+Which, when added together, correspond to average expenses of $1,929/month, nearly exceeding the gross pay offered by the department, and certainly more than the ~$1,500 net pay hitting our wallets.
 
 ## Reason 5 <a name="reason5" />
+**There is real human suffering in our department because of the lack of living wages. It's to the point that many of us can no longer ethically recommend graduate study in our department to potential new graduate students.**
 
-- Pay has gotten so tight that some graduate employees in the Department of Computer and Information Science are discreetly taking additional flex jobs in order to make ends meet, such as picking up occasional fast food shifts and doing gigwork like Uber or Lyft driving, none of which is conducive to teaching, research, or progress towards the graduate employee’s own graduation;
-- At one point, a PhD student in our department hosted an immediate family member in a tent in their yard, because there was no more space in their home for another person to sleep.
-- Graduate employees who cannot take on additional work are particularly impacted by unlivable pay, such as carers of young children, people with certain disabilities, or international students who are generally prohibited from working for employers other than the university as a condition of their visas;
+Pay has gotten so tight that some graduate employees in the Department of Computer and Information Science are discreetly taking additional flex jobs in order to make ends meet, such as picking up occasional fast food shifts and doing gigwork like Uber or Lyft driving, none of which is conducive to teaching, research, or progress towards the graduate employee’s own graduation. At one point, a PhD student in our department hosted an immediate family member in a tent in their yard, because there was no more space in their home for another person to sleep. Moreover, graduate employees who cannot take on additional work are particularly impacted by unlivable pay, such as carers of young children, people with certain disabilities, or international students who are generally prohibited from working for employers other than the university as a condition of their visas.
 
-29. WHEREAS we are proud of our university, our department, our earned degrees, our students, our faculty, and the caliber of academic rigor provided by our labor;
-30. WHEREAS many of us can no longer recommend graduate study in computer science at the University of Oregon to potential doctoral and master’s students due to the scarcity of graduate employee positions and the unlivable pay provided by those positions that do exist;
-
-32. WHEREAS the livelihood and graduation of approximately 50 graduate employees (approximately 25 teachers and 25 researchers) and their families is at stake here;
+We are proud of our university, our department, our earned degrees, our students, our faculty, and the caliber of academic rigor provided by our labor. However, many of us can no longer recommend graduate study in computer science at the University of Oregon to potential doctoral and master’s students due to the scarcity of graduate employee positions and the unlivable pay provided by those positions that do exist. We are doing this since the livelihood and graduation of approximately 50 graduate employees (approximately 25 teachers and 25 researchers) and their families is at stake here. We need your help to do our jobs.
 
 
 
 ## Reason 6 <a name="reason6" />
+**We are not asking for a lot of money. And there is plenty of money in the budget to pay us a bit more.**
 
 - The Oregon State Legislature has allocated some $900 million to Oregon’s public universities over the next biennium;
 - Undergraduate enrollment and tuition numbers for the upcoming academic year appear to be promising, and returns from the university’s savings through its $912.5 million endowment and other investments are considerable;
@@ -103,10 +108,14 @@ Which, when added together, correspond to average expenses of $1,929/month, near
 - The [salary request](#fix) is less than a 0.15% overall shift in the College of Arts and Science’s budget, a rounding error in the context of the university’s overall budget of nearly a billion dollars; and simply adjusts entry level pay for graduate employees in the Department of Computer and Information Science to be in the same ballpark of the Departments of Biology, Chemistry, Physics, and computing department peers elsewhere;
 
 ## Reason 7 <a name="reason7" />
+**There is a lot of precedent at the University of Oregon for our request.**
 
-31. WHEREAS the average starting pay for graduate employees in other departments is hundreds of dollars more a month, including in the departments of Art History, Biology, Chemistry, Creative Writing, Earth Science, Economics, Mathematics, Physics, and Psychology, and, further, the Department of Computer and Information Science’s graduate employees have lower average overall pay than graduate employees in an additional 18 hiring departments;
+The average starting pay for graduate employees in other departments is hundreds of dollars more a month, including in the departments of Art History, Biology, Chemistry, Creative Writing, Earth Science, Economics, Mathematics, Physics, and Psychology, and, further, the Department of Computer and Information Science’s graduate employees have lower average overall pay than graduate employees in an additional 18 hiring departments.
+
+*(Insert table with starting pay rates of other departments here)*
 
 ## Reason 8 <a name="reason8" />
+**Realigning GE pay in CIS is bennificial for the State of Oregon as a whole. Not doing it will invite scrutany from outside UO.**
 
 - There is a severe shortage of qualified computing professionals in Oregon, including business software developers, data scientists, web designers, app creators, network administrators, computing research scientists, and computer science teachers;
 - A bipartisan group of representatives of the Oregon State Legislature introduced a bill in 2019 declaring an emergency with respect to computer science education in Oregon (House Bill 2967);
