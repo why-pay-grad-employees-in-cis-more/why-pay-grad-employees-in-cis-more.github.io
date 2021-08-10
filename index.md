@@ -1,7 +1,5 @@
 # There are lots of reasons to pay us more!
 
-<div align="justify">
-
 
 *(This page is in draft mode. We are working to solidify the best possible language/framing, format it nicely, include meaningful graphics, provide links to sources, etc. However, even in this unfinished state, it gives you the gist of where our heads are.)*
 
@@ -69,6 +67,5 @@ Which, when added together, correspond to average expenses of $1,929/month, near
 35. WHEREAS the salary demand in “A.” places de-facto starting salary at $21,060;
 36. WHEREAS the salary demand in “A.” is estimated to cost the university an adjustment of no more than $253,000, of which roughly half is expected to be paid for by external grants (i.e., not from undergraduate tuition nor state tax allocation); is less than a 0.15% overall shift in the College of Arts and Science’s budget, a rounding error in the context of the university’s overall budget of nearly a billion dollars; and simply adjusts entry level pay for graduate employees in the Department of Computer and Information Science to be in the same ballpark of the Departments of Biology, Chemistry, Physics, and computing department peers elsewhere; with 15% raises upon completion of major academic milestones, in line with industry standards;
 
-</div>
 
 ## RESOLVED: The people in budget setting authority positions must boost graduate employee salaries in the Department of Computer and Information Science.
