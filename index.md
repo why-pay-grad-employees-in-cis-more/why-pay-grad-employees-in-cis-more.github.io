@@ -52,6 +52,7 @@ We request the following gross salary rates during the academic year take hold *
 
 ### Part B
 The total number of graduate employee teaching lines for the department must remain commensurate with the student-to-graduate-employee ratio of the 2020-2021 school year. (I.e., 75 GE lines distributed over three terms, for an average of 25 graduate employees per term on teaching funding.) Current faculty searches should also continue.
+
 In short: Do not cut the number of graduate employee positions in order to realign pay to livable levels. As a corollary, do not cancel the planned search and hiring process for a new tenure-track professor in data science.
 
 ### Part C
