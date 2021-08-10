@@ -17,7 +17,7 @@ Our arguments are below. If even one of these reasons is persuasive to you, it s
 5. There is real human suffering in our department because of the lack of living wages -- not just gripes about lower than desired salary. It's to the point that many of us can no longer ethically recommend graduate study in our department to potential new graduate students (esp. PhD students who are here for multiple years).  [Read More](#reason5)
 6. We are not asking for a lot of money. And there is plenty of money in the budget to pay us a bit more. To not pay us more is a policy decision, not a budget constraint.  [Read More](#reason6)
 7. There is a lot of precedent at the University of Oregon for our request. Graduate employees in many other departments make hundreds of dollars a month more than we do.  [Read More](#reason7)
-8. Realigning GE pay in CIS is bennificial for the State of Oregon as a whole. Not doing it will invite scrutany from outside UO.  [Read More](#reason8)
+8. Realigning GE pay in CIS is beneficial for the State of Oregon as a whole. Not doing it will invite scrutiny from outside UO.  [Read More](#reason8)
 
 As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17,001/academic year) for entry level employees and overall gross median monthly pay was ~$1,967/month ($17,703/academic year) in 2020-2021.
 
@@ -26,7 +26,7 @@ As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17
 - The graduate employees of the Department of Computer and Information Science at the University of Oregon teach undergraduate classes in their own right, direct laboratory sections for up to 75 undergraduate students a term, create new assignments for undergraduates, grade undergraduate work, conduct novel research on the edge of human knowledge and understanding in the field of computing, and write and win external grants alongside their senior colleagues: the tenured professors, tenure-track professors, and career instructors of the department.
 - For a typical graduate employee in the Department of Computer and Information Science in 2020-2021 working 18-20 hours a week, in addition to full time graduate study, the median gross monthly pay was ~$1,889 for entry level employees and overall median gross monthly pay was ~$1,967; 
 - In annual terms, median gross pay in academic year 2020-2021 was $16,767 for GE1s and $17,700 overall;
-- Most graduate employees work at 0.45 FTE, although some work at 0.49. A few, in extreamly special circumstances, work below 0.45 FTE.
+- Most graduate employees work at 0.45 FTE, although some work at 0.49. A few, in extremely special circumstances, work below 0.45 FTE.
 - Each term is different, but there are usually about 25 GEs working in a teaching capacity (all paid by UO funding, like undergraduate tuition or state taxes allocated to the university by the legislature) and anywhere from 20-35 GEs working in a research capacity (nearly all paid by external grants).
 - The median health insurance premium paid by the university for a graduate employee in the Department of Computer and Information Science is $504/month;
 - Typical net monthly pay for a graduate employee in computer science at all levels of experience is approximately $1,500, give or take $50 to $100 depending on the exact tax situation and nominal hours worked (that is to say, an overall income tax rate of 20-25%);
@@ -51,7 +51,7 @@ The claim of low pay compared to peers holds true even when considering the cost
 - Health insurance paid by the university for the most typical graduate employee (i.e., single individual in their late 20s/early 30s) is comparable with plans offered on the open market (we found that a comparable zero-deductible plan for a single individual in their late 20s/early 30s living in Eugene offered through Kaiser Permanente + Healthcare.gov was $418/month, but the plan does not offer vision nor dental benefits, which would likely bump up premiums by another $80 or so, and would then match the GTFF healthcare plan price);
 - The health insurance premiums for graduate employees paid by the university are historically among the lowest of all employee groups on a per-employee basis;
 
-And, of course, we pay embarassingly low salaries compared to industry.
+And, of course, we pay embarrassingly low salaries compared to industry.
 
 - Graduate employees hold bachelor’s and master’s degrees in computer science, a closely related field, or otherwise have backgrounds which have prepared them for graduate study in the field of computing;
 - The United States Bureau of Labor Statistics reports that 2020 median annual salary for software developers with a bachelor’s degree was $110,140, and, for computer research scientists with master’s degrees, $126,830, thus creating a compelling financial reason for graduate employees at all graduate levels of computer science to eschew academic study for far more lucrative jobs elsewhere;
@@ -80,7 +80,7 @@ Moreover, the price of housing in Eugene has skyrocketed in the last year, such 
 
 The University of Oregon itself makes estimates of graduate student expenses, reported on its page https://financialaid.uoregon.edu/cost_of_attendance_graduate
 
-These expenses are tabluated as:
+These expenses are tabulated as:
 
  * Monthly Housing Costs: $1,070;
  * Monthly Food Costs: $341 (which we believe to be an underestimate)
@@ -106,7 +106,7 @@ We are proud of our university, our department, our earned degrees, our students
 - Undergraduate enrollment and tuition numbers for the upcoming academic year appear to be promising, and returns from the university’s savings through its $912.5 million endowment and other investments are considerable;
 - The University of Oregon has recent success in grants and donations, both with respect to the Department of Computer and Information Science specifically, and to the university more broadly, with the Knight’s second $500 million dollar gift dedicated to applied science coming to mind;
 - All parties are in agreement that graduate employee salary levels at the University of Oregon are low on their face, and compared to peer institutions;
-- Neither immediate supervisors nor the department head set pay levels for graduate employees. Since compensation decisions are made by the Dean of the College of Arts and Sciences Bruce Blonigen (annual salary: $565,000) or their designee the Divisional Dean for Natural Sciences Hal Sadofsky ($313,500) with some input from the VP for Finance and Administration & CFO Jamie Moffitt ($407,400), the Provost Patrick Phillips ($615,200), and ultimately President Michael Schill ($1,235,400), we find that claims of "lack of budget" to ring especially hollow, given that our desiredcontribution from CAS of about $100,000 will better the lives for ~50 GEs;
+- Neither immediate supervisors nor the department head set pay levels for graduate employees. Since compensation decisions are made by the Dean of the College of Arts and Sciences Bruce Blonigen (annual salary: $565,000) or their designee the Divisional Dean for Natural Sciences Hal Sadofsky ($313,500) with some input from the VP for Finance and Administration & CFO Jamie Moffitt ($407,400), the Provost Patrick Phillips ($615,200), and ultimately President Michael Schill ($1,235,400), we find that claims of "lack of budget" to ring especially hollow, given that our desired contribution from CAS of about $100,000 will better the lives for ~50 GEs;
 - The [salary request](#fix) places de-facto starting salary at $21,060;
 - The [salary request](#fix) is estimated to cost the university an adjustment of no more than $253,000, of which roughly half is expected to be paid for by external grants (i.e., not from undergraduate tuition nor state tax allocation)
 - The [salary request](#fix) is less than a 0.15% overall shift in the College of Arts and Science’s budget, a rounding error in the context of the university’s overall budget of nearly a billion dollars; and simply adjusts entry level pay for graduate employees in the Department of Computer and Information Science to be in the same ballpark of the Departments of Biology, Chemistry, Physics, and computing department peers elsewhere;
@@ -119,7 +119,7 @@ The average starting pay for graduate employees in other departments is hundreds
 *(Insert table with starting pay rates of other departments here)*
 
 ## Reason 8 <a name="reason8" />
-**Realigning GE pay in CIS is bennificial for the State of Oregon as a whole. Not doing it will invite scrutany from outside UO.**
+**Realigning GE pay in CIS is beneficial for the State of Oregon as a whole. Not doing it will invite scrutiny from outside UO.**
 
 - There is a severe shortage of qualified computing professionals in Oregon, including business software developers, data scientists, web designers, app creators, network administrators, computing research scientists, and computer science teachers;
 - A bipartisan group of representatives of the Oregon State Legislature introduced a bill in 2019 declaring an emergency with respect to computer science education in Oregon (House Bill 2967);
