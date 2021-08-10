@@ -33,6 +33,51 @@ As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17
 
 ## Proposed Fix <a name="fix" />
 
+Our fix has four parts: change our salaries to the below rates, keep the number of employment lines at par with historic norms, respond to the proposal promptly, and don't retaliate against us for proposing it.
+
+### Part A
+
+We request the following salary rates take hold **before** the 2021-2022 academic school year starts (that is, be effective on September 16, 2021 when the contract begins):
+
+|       |                                                                     | Gross Salary During The Academic Year |
+| ----- | ------------------------------------------------------------------- | ------------------------------------- |
+| Level | Description                                                         | @0.5 FTE (Base rate)                  | @0.49 FTE 
+
+(Maximum amount of time graduate employees can work) | @0.45 FTE 
+
+(18hrs/week; the norm for the typical graduate employee in CIS) |
+| GE1   | Entry level; has bachelor's degree in computer science              | $2,600/month
+
+($23,400/year)          | $2,548/month
+
+$22,932/year | $2,340/month
+
+$21,060/year |
+| GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month
+
+($27,000/year)          | $2,940/month
+
+$26,460/year | $2,700/month
+
+$24,300/year |
+| GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month
+
+($31,050/year)          | $3,381/month
+
+30,429/year | $3,105/month
+
+$27,945/year |
+
+### Part B
+The total number of graduate employee teaching lines for the department must remain commensurate with the student-to-graduate-employee ratio of the 2020-2021 school year. (I.e., 75 GE lines distributed over three terms, for an average of 25 graduate employees per term on teaching funding.) Current faculty searches should also continue.
+In short: Do not cut the number of graduate employee positions in order to realign pay to livable levels. As a corollary, do not cancel the planned search and hiring process for a new tenure-track professor in data science.
+
+### Part C
+Respond to this proposal in writing within two weeks (10 business days) of formal delivery.
+
+### Part D
+No writer, signer, or deliverer of this proposal shall be subject to formal or informal discipline, dismissal, or contract non-renewal.
+
 ## Reason 1 <a name="reason1" />
 **Existing compensation isn't competitive.**
 
