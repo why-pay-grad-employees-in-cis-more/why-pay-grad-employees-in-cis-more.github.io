@@ -46,8 +46,8 @@ We request the following gross salary rates during the academic year take hold *
 | GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month ($27,000/year)          | $2,940/month ($26,460/year) | $2,700/month ($24,300/year) |
 | GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month ($31,050/year)          | $3,381/month (30,429/year) | $3,105/month ($27,945/year) |
 
-\* Base rate.
-\*\* Maximum amount of time graduate employees can work.
+\* Base rate. <br />
+\*\* Maximum amount of time graduate employees can work. <br />
 \*\*\* 18hrs/week; the norm for the typical graduate employee in CIS.
 
 ### Part B
