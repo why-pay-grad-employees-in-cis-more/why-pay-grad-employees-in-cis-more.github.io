@@ -1,4 +1,4 @@
-<p style="font-size:small;">(This site is in draft mode. We are working to solidify the best possible language/framing, format it nicely, include meaningful graphics, provide links to sources, etc. However, even in this unfinished state, it gives you the gist of where our heads are. We will finalize this site before we submit the accompanying petition to UO administrators. Feedback/Concerns? <a href="https://forms.gle/rkFJRXGZBkviyj517">Write us an anonymous note</a> and we'll talk about it in our next meeting.)</p>
+<p style="font-size:small;">(Feedback? <a href="https://forms.gle/rkFJRXGZBkviyj517">Write us an anonymous note</a> and we'll talk about it in our next meeting.)</p>
 
 Welcome! If you're out of the loop about the current state of graduate employee pay in the Department of Computer and Information Science at the University of Oregon, take a look at the [background](#background) section of this page. Check out our [proposed fix](#fix) to alleviate the pay crisis. Additionally, we would love for you to [sign a petition](https://docs.google.com/document/d/1eR5cLV9YOIsWq5DbL8_anipiLsU5391n6V3Acpb-EFo/edit?usp=sharing) for better pay. The petition's *Executive Summary* gives a comprehensive overview, too. 
 
@@ -78,7 +78,7 @@ Salary is low compared to peer institutions.
 
 Contrast this with the University of Oregon:
 
-Average pay (which is actually a little bit lower than the median pay, as reported in [background](#background)) at the University of Oregon in CIS is $17455.50/ year + healthcare. We recognize that healthcare is excellent at UO, and we pay for that excellence. But even if we add $2,000 worth to our compensation to account for above market healthcare, we're still only at $19,455/year. And even if we consider an additional $4,600 (which some administrators have indicated to be the true overpayment amount, which we strongly reject), we're still only at $22,055/year; some $2000 behind our peers.
+Average pay (which is actually a little bit lower than the median pay, as reported in [background](#background)) at the University of Oregon in CIS is $17,455.50/ year + healthcare. We recognize that healthcare is excellent at UO, and we pay for that excellence. But even if we add $2,000 worth to our compensation to account for above market healthcare, we're still only at $19,455/year. And even if we consider an additional $4,600 (which some administrators have indicated to be the true overpayment amount, which we strongly reject), we're still only at $22,055/year; some $2000 behind our peers.
 
 
 The claim of low pay compared to peers holds true even when considering the cost of health insurance provided by the GTFF.
@@ -97,7 +97,7 @@ And, of course, we pay embarrassingly low salaries compared to industry.
 ## Reason 2 <a name="reason2" />
 **We have seen pay cuts in the last two years, in nominal terms.**
 
-One of the requirements for the PhD program is to undertake a significant project, called the DRP. From the requirements:
+One of the milestones for the PhD program in Computer Science is to undertake a significant project fairly early on in a student's studies. This milestone is called the Directed Research Project (DRP). From the requirements:
 
 _The scope of a DRP should be somewhere between an undergraduate honors and a master's thesis. A desired result of a DRP is a publishable paper or a departmental technical report._
 
@@ -107,7 +107,7 @@ Each PhD student used to be offered funding during the summer, which was usually
 
 This summer funding was stripped away in ~2020, but the DRP requirement remains.
 
-Doing the DRP during the school year, on top of full time classwork and a 18-hour/week GE-teaching assignment, is simply setting students up for failure. Summer continues to be the ideal time to complete major research projects as an early-career graduate student. But if you can't find independent summer funding which is truly research oriented (and not, say, a software development job which pays the bills but doesn't advance research), then the DRP continues to stay on the backburner and provides a barrier to graduation.
+Doing the DRP during the school year, on top of full time classwork and an 18-hour/week GE-teaching assignment, is simply setting students up for failure. Summer continues to be the ideal time to complete major research projects as an early-career graduate student. But if you can't find independent summer funding which is truly research oriented (and not, say, a software development job which pays the bills but doesn't advance research), then the DRP continues to stay on the backburner and provides a barrier to graduation.
 
 PhD programs are about developing the academic skills of novice researchers into experts. The whims of the summer internship job market (which, as we saw during summer 2020, can be extremely unpredictable) should not prematurely and arbitrarily end the careers of up-and-coming graduate researchers before they have even one full calendar year of graduate school experience.
 
@@ -133,7 +133,7 @@ Moreover, the price of housing in Eugene has skyrocketed in the last year, such 
 ## Reason 4 <a name="reason4" />
 **Pay is so low that, even going by the University of Oregon's own official cost-of-living estimates, we can't afford rent and groceries.**
 
-The University of Oregon itself makes estimates of graduate student expenses, reported on its page https://financialaid.uoregon.edu/cost_of_attendance_graduate
+The University of Oregon itself makes estimates of graduate student expenses, reported on its page [https://financialaid.uoregon.edu/cost_of_attendance_graduate](https://financialaid.uoregon.edu/cost_of_attendance_graduate)
 
 These expenses are tabulated as:
 
