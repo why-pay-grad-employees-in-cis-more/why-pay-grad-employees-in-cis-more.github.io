@@ -11,7 +11,7 @@ Our arguments are below. If even one of these reasons is persuasive to you, it s
 ## Reasons to raise pay <a name="reasons" />
 
 1. Existing compensation isn't competitive when measured against peer institutions. Our department is in the bottom ~10%-25% of all computing departments nationwide in terms of pay offered. [Read More](#reason1)
-2. We have seen pay cuts in the last two years, in real terms, and we want our salaries back.  [Read More](#reason2)
+2. We have seen pay cuts in the last two years, in both real and nominal terms, and we want our salaries back.  [Read More](#reason2)
 3. Rental costs, in particular, have become so high relative to pay that we can't afford housing anymore.  [Read More](#reason3)
 4. Pay is so low that, even going by the University of Oregon's own official cost-of-living estimates, we can't afford rent and groceries.  [Read More](#reason4)
 5. There is real human suffering in our department because of the lack of living wages -- not just gripes about lower than desired salary. It's to the point that many of us can no longer ethically recommend graduate study in our department to potential new graduate students (esp. PhD students who are here for multiple years).  [Read More](#reason5)
@@ -58,6 +58,22 @@ And, of course, we pay embarrassingly low salaries compared to industry.
 - The vast majority of graduate employees in the Department of Computer and Information Science at the University of Oregon have forgone years of lucrative salaries elsewhere to commit themselves to teaching, research, and general scholarship -- surely we can pay them at least a living wage.
 
 ## Reason 2 <a name="reason2" />
+**We have seen pay cuts in the last two years, in nominal terms.**
+
+One of the requirements for the PhD program is to undertake a significant project, called the DRP. From the requirements:
+
+_The scope of a DRP should be somewhere between an undergraduate honors and a master's thesis. A desired result of a DRP is a publishable paper or a departmental technical report._
+
+_A DRP consists of the following components: literature review, research, possibly software artifact, written report in the form of the DRP final paper, public presentation of the results, and the exam by private questioning from the committee members._
+
+Each PhD student used to be offered funding during the summer, which was usually spent undertaking this project. 
+
+This summer funding has now been stripped away, but the requirement remains.
+
+Doing the DRP during the school year, on top of full time classwork and a 18-hour/week GE-teaching assignment, is simply setting students up for failure. Summer continues to be the ideal time to complete major research projects as an early-career graduate student. But if you can't find independent summer funding which is truly research oriented (and not, say, a software development job which pays the bills but doesn't advance research), then the DRP continues to stay on the backburner and provides a barrier to graduation. If PhD programs are about developing the academic skills of novice researchers, then the whims of the summer internship job market (which, as we saw during covid can be extremely unpredictable) should not prematurely and arbitrarily end the careers of the up-and-coming.
+
+If DRP summer pay isn't restored, then at least give us raises. It's the least that can be done, given the ladder is being pulled up behind us for the next generation of GEs.
+
 **We have seen pay cuts in the last two years, in real terms.**
 
 Net pay for a GE in the department is around ~$1,500/month ([read more](#background)). The median monthly rent for a 1-bedroom apartment in the Eugene-Springfield metro area now exceeds $1,000 ([read more](#reason3)).
