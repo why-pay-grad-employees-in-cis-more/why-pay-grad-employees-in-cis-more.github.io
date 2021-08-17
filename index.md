@@ -1,10 +1,10 @@
-*(This page is in draft mode. We are working to solidify the best possible language/framing, format it nicely, include meaningful graphics, provide links to sources, etc. However, even in this unfinished state, it gives you the gist of where our heads are. We will finalize it before we submit the petition to admin.)*
+<p style="font-size:small;">(This site is in draft mode. We are working to solidify the best possible language/framing, format it nicely, include meaningful graphics, provide links to sources, etc. However, even in this unfinished state, it gives you the gist of where our heads are. We will finalize this site before we submit the accompanying petition to UO administrators. Feedback/Concerns? <a href="https://forms.gle/rkFJRXGZBkviyj517">Write us an anonymous note</a> and we'll talk about it in our next meeting.)</p>
 
 Welcome! If you're out of the loop about the current state of graduate employee pay in the Department of Computer and Information Science at the University of Oregon, take a look at the [background](#background) section of this page. Check out our [proposed fix](#fix) to alleviate the pay crisis. Additionally, we would love for you to [sign a petition](https://docs.google.com/document/d/1eR5cLV9YOIsWq5DbL8_anipiLsU5391n6V3Acpb-EFo/edit?usp=sharing) for better pay. The petition's *Executive Summary* gives a comprehensive overview, too. 
 
 # There are lots of reasons to pay us more!
 
-We've gathered data to support a number of arguments. In the end, they all point to one thing: salaries need to be raised.
+We've gathered data to support a number of arguments. Click on the *read more* next to each rationale for greater explanation, supporting facts, figures, and sources. In the end, all the data point to one thing: salaries need to be raised before fall term begins.
 
 Our arguments are below. If even one of these reasons is persuasive to you, it stands to reason that pay should be increased.
 
@@ -32,6 +32,34 @@ As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17
 - Typical net monthly pay for a graduate employee in computer science at all levels of experience is approximately $1,500, give or take $50 to $100 depending on the exact tax situation and nominal hours worked (that is to say, an overall income tax rate of 20-25%);
 
 ## Proposed Fix <a name="fix" />
+
+Our fix has four parts: change our salaries to the below rates, keep the number of employment lines at par with historic norms, respond to the proposal promptly, and don't retaliate against us for proposing it.
+
+### Part A
+
+We request the following gross salary rates during the academic year take hold **before** the 2021-2022 academic school year starts (that is, be effective on September 16, 2021 when the contract begins):
+
+
+| Level | Description                                                         | @0.5 FTE \*                  | @0.49 FTE \*\*  | @0.45 FTE \*\*\*   |
+| ----- | ------------------------------------------------------------------- | ------------------------------------- |  ------------------------------------------------------------ |  ------------------------------------------------------------------------ |
+| GE1   | Entry level; has bachelor's degree in computer science              | $2,600/month ($23,400/year)          | $2,548/month ($22,932/year) | $2,340/month ($21,060/year) |
+| GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month ($27,000/year)          | $2,940/month ($26,460/year) | $2,700/month ($24,300/year) |
+| GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month ($31,050/year)          | $3,381/month (30,429/year) | $3,105/month ($27,945/year) |
+
+\* Base rate. <br />
+\*\* Maximum amount of time graduate employees can work. <br />
+\*\*\* 18hrs/week; the norm for the typical graduate employee in CIS.
+
+### Part B
+The total number of graduate employee teaching lines for the department must remain commensurate with the student-to-graduate-employee ratio of the 2020-2021 school year. (I.e., 75 GE lines distributed over three terms, for an average of 25 graduate employees per term on teaching funding.) Current faculty searches should also continue.
+
+In short: Do not cut the number of graduate employee positions in order to realign pay to livable levels. As a corollary, do not cancel the planned search and hiring process for a new tenure-track professor in data science.
+
+### Part C
+Respond to this proposal in writing within two weeks (10 business days) of formal delivery.
+
+### Part D
+No writer, signer, or deliverer of this proposal shall be subject to formal or informal discipline, dismissal, or contract non-renewal.
 
 ## Reason 1 <a name="reason1" />
 **Existing compensation isn't competitive.**
@@ -132,7 +160,21 @@ We are proud of our university, our department, our earned degrees, our students
 
 The average starting pay for graduate employees in other departments is hundreds of dollars more a month, including in the departments of Art History, Biology, Chemistry, Creative Writing, Earth Science, Economics, Mathematics, Physics, and Psychology, and, further, the Department of Computer and Information Science’s graduate employees have lower average overall pay than graduate employees in an additional 18 hiring departments.
 
-*(Insert table with starting pay rates of other departments here)*
+In the College of Arts and Sciences alone, we note the following departments have higher median starting salaries than in CIS as of May 2021. The dollar figures are median gross salaries paid per month by hiring department in the academic year for GEs on teaching funding.
+
+
+| Grade           |  Hiring Department                  |  Median FTE |  2019-2020   (Official) |  2020-2021   (Estimated YTD) |  2021-2022   (Projected) |
+|-----------------|-------------------------------------|-------------|-------------------------|------------------------------|--------------------------|
+|  GE1 - Teaching |  CAS Chemistry                      |        0.46 |                  $2,239 |                       $2,271 |                   $2,302 |
+|  GE1 - Teaching |  CAS Biology                        |        0.45 |                  $2,239 |                       $2,271 |                   $2,302 |
+|  GE1 - Teaching |  CAS Earth Sciences                 |        0.49 |                  $2,158 |                       $2,188 |                   $2,219 |
+|  GE1 - Teaching |  CAS Psychology                     |        0.49 |                  $2,149 |                       $2,179 |                   $2,210 |
+|  GE1 - Teaching |  CAS Creative Writing               |        0.49 |                  $2,069 |                       $2,098 |                   $2,127 |
+|  GE1 - Teaching |  CAS Physics                        |        0.40 |                  $2,051 |                       $2,080 |                   $2,109 |
+|  GE1 - Teaching |  CAS Mathematics                    |        0.49 |                  $2,013 |                       $2,042 |                   $2,070 |
+|  GE1 - Teaching |  CAS Economics                      |        0.49 |                  $2,011 |                       $2,039 |                   $2,068 |
+|  GE1 - Teaching |  CAS Computer & Information Science |        0.45 |                  $1,863 |                       $1,889 |                   $1,916 |
+
 
 ## Reason 8 <a name="reason8" />
 **Realigning GE pay in CIS is beneficial for the State of Oregon as a whole. Not doing it will invite scrutiny from outside UO.**
