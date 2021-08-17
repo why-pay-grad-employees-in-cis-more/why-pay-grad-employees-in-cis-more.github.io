@@ -43,8 +43,8 @@ We request the following gross salary rates during the academic year take hold *
 | Level | Description                                                         | @0.5 FTE \*                  | @0.49 FTE \*\*  | @0.45 FTE \*\*\*   |
 | ----- | ------------------------------------------------------------------- | ------------------------------------- |  ------------------------------------------------------------ |  ------------------------------------------------------------------------ |
 | GE1   | Entry level; has bachelor's degree in computer science              | $2,600/month ($23,400/year)          | $2,548/month ($22,932/year) | $2,340/month ($21,060/year) |
-| GE2   | Passed major PhD milestone; has master's degree in computer science | $3,000/month ($27,000/year)          | $2,940/month ($26,460/year) | $2,700/month ($24,300/year) |
-| GE3   | Advanced to doctoral candidacy in computer science                  | $3,450/month ($31,050/year)          | $3,381/month (30,429/year) | $3,105/month ($27,945/year) |
+| GE2   | Passed major PhD milestone; has master's degree in computer science | $2,840/month ($25,555/year)          | $2,782/month ($25,044/year) | $2,556/month ($23,000/year) |
+| GE3   | Advanced to doctoral candidacy in computer science                  | $3,012/month ($27,111/year)          | $2,952/month (26,569/year) | $2,911/month ($24,400/year) |
 
 \* Base rate. <br />
 \*\* Maximum amount of time graduate employees can work. <br />
@@ -70,14 +70,23 @@ Salary is low compared to peer institutions.
 
 *(TODO: Chris is providing visualizations here)*
 
-We also gathered data from specific peer institutions
+- We also gathered data from specific peer institutions which faculty members in our department have identified as representative peers. These include the University of California - Santa Cruz, which is close to the University of Oregon in rankings of computing departments; the University of Wisconsin - Madison, which has a similar cost of living as Eugene, is in a "state stingy with money" and is higher up in the rankings but within reach for UO to overtake; and the University of Washington, which has one of the highest ranked computing departments in the world and represents the most prestigious computing department in the US Pacific Northwest.
 
-*(TODO: Abhishek is providing data here)*
+- UC Santa Cruz pays their average computer science GE $24,400/year + healthcare
+- UW-Madison pays their average computer science GE  $25,000/year + healthcare
+- University of Washington pays their average computer science GE $27,000/year + healthcare
+
+Contrast this with the University of Oregon:
+
+Average pay (which is actually a little bit lower than the median pay, as reported in [background](#background)) at the University of Oregon in CIS is $17455.50/ year + healthcare. We recognize that healthcare is excellent at UO, and we pay for that excellence. But even if we add $2,000 worth to our compensation to account for above market healthcare, we're still only at $19,455/year. And even if we consider an additional $4,600 (which some administrators have indicated to be the true overpayment amount, which we strongly reject), we're still only at $22,055/year; some $2000 behind our peers.
+
 
 The claim of low pay compared to peers holds true even when considering the cost of health insurance provided by the GTFF.
 
-- Health insurance paid by the university for the most typical graduate employee (i.e., single individual in their late 20s/early 30s) is comparable with plans offered on the open market (we found that a comparable zero-deductible plan for a single individual in their late 20s/early 30s living in Eugene offered through Kaiser Permanente + Healthcare.gov was $418/month, but the plan does not offer vision nor dental benefits, which would likely bump up premiums by another $80 or so, and would then match the GTFF healthcare plan price);
-- The health insurance premiums for graduate employees paid by the university are historically among the lowest of all employee groups on a per-employee basis;
+- To help us reason about the price of healthcare more directly, we considered a hypothetical where the university, instead of offering health insurance, gave each GE in CIS a stipend to buy their healthcare on the open market.
+- We found that the health insurance paid by the university for the most typical graduate employee (i.e., single individual in their late 20s/early 30s) is comparable with plans offered on the open market (we found that the median low/zero-deductible plan for a single individual in their late 20s/early 30s living in Eugene offered through on Healthcare.gov was around $400/month, but these plans do not offer vision nor dental benefits, which would likely bump up premiums by another $100-$150 or so, and would then match the GTFF healthcare plan price);
+- However, we recognize that brokering health insurance plans in bulk is different. While we think that calling our GTFF negotiated healthcare "overpriced" by $4,600 is too steep, we are willing to concede that the university offers an additional ~$2,000 worth of compensation, in terms of healthcare benefits, above peers.
+- We further note that the health insurance premiums for graduate employees paid by the university are historically among the lowest of all employee groups on a per-employee basis;
 
 And, of course, we pay embarrassingly low salaries compared to industry.
 
@@ -96,11 +105,13 @@ _A DRP consists of the following components: literature review, research, possib
 
 Each PhD student used to be offered funding during the summer, which was usually spent undertaking this project. 
 
-This summer funding has now been stripped away, but the requirement remains.
+This summer funding was stripped away in ~2020, but the DRP requirement remains.
 
-Doing the DRP during the school year, on top of full time classwork and a 18-hour/week GE-teaching assignment, is simply setting students up for failure. Summer continues to be the ideal time to complete major research projects as an early-career graduate student. But if you can't find independent summer funding which is truly research oriented (and not, say, a software development job which pays the bills but doesn't advance research), then the DRP continues to stay on the backburner and provides a barrier to graduation. If PhD programs are about developing the academic skills of novice researchers, then the whims of the summer internship job market (which, as we saw during covid can be extremely unpredictable) should not prematurely and arbitrarily end the careers of the up-and-coming.
+Doing the DRP during the school year, on top of full time classwork and a 18-hour/week GE-teaching assignment, is simply setting students up for failure. Summer continues to be the ideal time to complete major research projects as an early-career graduate student. But if you can't find independent summer funding which is truly research oriented (and not, say, a software development job which pays the bills but doesn't advance research), then the DRP continues to stay on the backburner and provides a barrier to graduation.
 
-If DRP summer pay isn't restored, then at least give us raises. It's the least that can be done, given the ladder is being pulled up behind us for the next generation of GEs.
+PhD programs are about developing the academic skills of novice researchers into experts. The whims of the summer internship job market (which, as we saw during summer 2020, can be extremely unpredictable) should not prematurely and arbitrarily end the careers of up-and-coming graduate researchers before they have even one full calendar year of graduate school experience.
+
+If DRP summer pay isn't restored, then at least give us raises. It's the least that can be done, given the financial ladder has been pulled up behind us for the next generation of GEs.
 
 **We have seen pay cuts in the last two years, in real terms.**
 
@@ -154,6 +165,7 @@ We are proud of our university, our department, our earned degrees, our students
 - The [salary request](#fix) places de-facto starting salary at $21,060;
 - The [salary request](#fix) is estimated to cost the university an adjustment of no more than $253,000, of which roughly half is expected to be paid for by external grants (i.e., not from undergraduate tuition nor state tax allocation)
 - The [salary request](#fix) is less than a 0.15% overall shift in the College of Arts and Science’s budget, a rounding error in the context of the university’s overall budget of nearly a billion dollars; and simply adjusts entry level pay for graduate employees in the Department of Computer and Information Science to be in the same ballpark of the Departments of Biology, Chemistry, Physics, and computing department peers elsewhere;
+- The [salary request](#fix) is expected to cost approximately $3,818/year for a GE1, $5,293/year for a GE2, $5,045/year for a GE3, with the highest price change being no more than $5,900/year for any GE;
 
 ## Reason 7 <a name="reason7" />
 **There is a lot of precedent at the University of Oregon for our request.**
