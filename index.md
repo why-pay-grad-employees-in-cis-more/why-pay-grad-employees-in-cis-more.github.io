@@ -66,9 +66,14 @@ No writer, signer, or deliverer of this proposal shall be subject to formal or i
 
 Salary is low compared to peer institutions.
 
-- The Taulbee survey, the gold standard for enrollment and salary statistics for academic computing departments, reported the following for academic year 2020-2021 ([source; page 43](https://cra.org/crn/2021/05/2020-taulbee-survey/)):
+- UO CIS GEs were payed substantially less during the 2020-2021 academic year than national averages as reported by the Taulbee survey, the gold standard for enrollment and salary statistics for academic computing departments (see Figure 1).
 
-*(TODO: Chris is providing visualizations here)*
+<div style="text-align:center;">
+<img src="/img/compAllFTE.png" width=480 style="margin-bottom:0;"/>
+<div style="text-align:left;margin-top:0;" markdown="1">
+**Figure 1.** Comparing teaching assistant (TA), research assistant (RA), and full support fellow (FS) annual salaries at private and public institutions as reported in the 2020-2021 Taulbee survey with annual salaries of UO CIS GEs over the same year. ([source; page 43](https://cra.org/crn/2021/05/2020-taulbee-survey/))
+</div>
+</div>
 
 - We also gathered data from specific peer institutions which faculty members in our department have identified as representative peers. These include the University of California - Santa Cruz, which is close to the University of Oregon in rankings of computing departments; the University of Wisconsin - Madison, which has a similar cost of living as Eugene, is in a "state stingy with money" and is higher up in the rankings but within reach for UO to overtake; and the University of Washington, which has one of the highest ranked computing departments in the world and represents the most prestigious computing department in the US Pacific Northwest.
 
