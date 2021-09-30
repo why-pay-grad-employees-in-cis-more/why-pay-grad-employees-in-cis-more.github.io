@@ -25,7 +25,8 @@ As a reminder, gross median pay for GEs in our department was ~$1,889/month ($17
 
 - The graduate employees of the Department of Computer and Information Science at the University of Oregon teach undergraduate classes in their own right, direct laboratory sections for up to 75 undergraduate students a term, create new assignments for undergraduates, grade undergraduate work, conduct novel research on the edge of human knowledge and understanding in the field of computing, and write and win external grants alongside their senior colleagues: the tenured professors, tenure-track professors, and career instructors of the department.
 - For a typical graduate employee in the Department of Computer and Information Science in 2020-2021 working 18-20 hours a week, in addition to full time graduate study, the median gross monthly pay was ~$1,889 for entry level employees and overall median gross monthly pay was ~$1,967; 
-- In annual terms, median gross pay in academic year 2020-2021 was $16,767 for GE1s and $17,700 overall;
+- In annual terms, median gross pay in academic year 2020-2021 was $17,001 for GE1s;
+- Median gross pay for GEs at all levels in academic year 2020-2021 was $17,703;
 - Most graduate employees work at 0.45 FTE, although some work at 0.49. A few, in extremely special circumstances, work below 0.45 FTE.
 - Each term is different, but there are usually about 25 GEs working in a teaching capacity (all paid by UO funding, like undergraduate tuition or state taxes allocated to the university by the legislature) and anywhere from 20-35 GEs working in a research capacity (nearly all paid by external grants).
 - The median health insurance premium paid by the university for a graduate employee in the Department of Computer and Information Science is $504/month;
