@@ -1,5 +1,15 @@
 <p style="font-size:small;">(Feedback? <a href="https://forms.gle/rkFJRXGZBkviyj517">Write us an anonymous note</a> and we'll talk about it in our next meeting.)</p>
 
+### Update:
+
+UO leadership has rejected our petition. Read the email chain [here](https://why-pay-grad-employees-in-cis-more.github.io/rejection.html)
+<br />
+This resulted in a news article from the Daily Emerald, with the headline [UO rejects petition for stipend raises of Computer and Information Science GEs](https://www.dailyemerald.com/news/uo-rejects-petition-for-stipend-raises-of-computer-and-information-science-ges/article_fef5122e-2247-11ec-b6e2-1fcc290260a4.html) 
+
+<br />
+<hr />
+<br />
+
 Welcome! If you're out of the loop about the current state of graduate employee pay in the Department of Computer and Information Science at the University of Oregon, take a look at the [background](#background) section of this page. Check out our [proposed fix](#fix) to alleviate the pay crisis. Additionally, we would love for you to [sign a petition](https://docs.google.com/document/d/1eR5cLV9YOIsWq5DbL8_anipiLsU5391n6V3Acpb-EFo/edit?usp=sharing) for better pay. The petition's *Executive Summary* gives a comprehensive overview, too. 
 
 # There are lots of reasons to pay us more!
