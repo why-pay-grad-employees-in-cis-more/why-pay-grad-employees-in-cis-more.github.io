@@ -2,9 +2,9 @@
 
 ### Update:
 
-UO leadership has rejected our petition. Read the email chain [here](https://why-pay-grad-employees-in-cis-more.github.io/rejection.html)
+UO leadership has rejected our plea for a living wage. Read leadership's response and our reply [here](https://why-pay-grad-employees-in-cis-more.github.io/rejection.html).
 <br />
-This resulted in a news article from the Daily Emerald, with the headline [UO rejects petition for stipend raises of Computer and Information Science GEs](https://www.dailyemerald.com/news/uo-rejects-petition-for-stipend-raises-of-computer-and-information-science-ges/article_fef5122e-2247-11ec-b6e2-1fcc290260a4.html) 
+This resulted in a news article from the Daily Emerald, with the headline [UO rejects petition for stipend raises of Computer and Information Science GEs](https://www.dailyemerald.com/news/uo-rejects-petition-for-stipend-raises-of-computer-and-information-science-ges/article_fef5122e-2247-11ec-b6e2-1fcc290260a4.html)
 
 <br />
 <hr />
